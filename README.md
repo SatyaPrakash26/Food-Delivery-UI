@@ -2,7 +2,8 @@
 Food Delivery Website Landing page UI.<br/>
 A Responsive Landing Page with lots of animations.
 
-View:
+## View:
+
 https://satyaprakash26.github.io/Food-Delivery-UI/
 
 ## A Glimpse of how it looks📱💻 and works:
